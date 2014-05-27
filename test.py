@@ -16,5 +16,8 @@ from django.template import RequestContext
 from django.utils import timezone
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth import logout, authenticate
+from django.conf import settings
+from django.contrib.auth.models import User, check_password
+from django.views.decorators.csrf import csrf_exempt
 
 
