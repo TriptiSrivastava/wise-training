@@ -6,6 +6,7 @@ import math #imports math
 import os as os_orig
 import utils
 import sys
+<<<<<<< .merge_file_0vvIyP
 from django.http import HttpResponse
 from django.shortcuts import render_to_response
 from attendance.models import *
@@ -25,8 +26,10 @@ from django.contrib import admin
 from attendance.models import *
 
 
+=======
 
 if 5:
   print '1'
 else:
   pass
+>>>>>>> .merge_file_yOSdUQ
