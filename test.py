@@ -9,3 +9,5 @@ import sys
 
 if 5:
   print '1'
+else:
+  pass
