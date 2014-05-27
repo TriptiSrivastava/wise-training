@@ -6,6 +6,7 @@ import math #imports math
 import os as os_orig
 import utils
 import sys
+
 from django.http import HttpResponse
 from django.shortcuts import render_to_response
 from attendance.models import *
@@ -20,10 +21,10 @@ from django.conf import settings
 from django.contrib.auth.models import User, check_password
 from django.views.decorators.csrf import csrf_exempt
 from django.contrib import admin
-
+dc  nsxnb hjvewjkckl
 # Register your models here.
 from attendance.models import *
-
+iuweuiferfieig4eogi
 
 
 if 5:
