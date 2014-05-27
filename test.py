@@ -19,5 +19,9 @@ from django.contrib.auth import logout, authenticate
 from django.conf import settings
 from django.contrib.auth.models import User, check_password
 from django.views.decorators.csrf import csrf_exempt
+from django.contrib import admin
+
+# Register your models here.
+from attendance.models import *
 
 
