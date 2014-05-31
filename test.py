@@ -26,6 +26,8 @@ dc  nsxnb hjvewjkckl
 from attendance.models import *
 iuweuiferfieig4eogi
 
+=======
+>>>>>>> upstream/master
 
 if 5:
   print '1'
