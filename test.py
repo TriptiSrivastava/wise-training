@@ -6,7 +6,7 @@ import math #imports math
 import os as os_orig
 import utils
 import sys
-
+hod
 from django.http import HttpResponse
 from django.shortcuts import render_to_response
 from attendance.models import *
